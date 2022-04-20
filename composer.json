@@ -1,0 +1,18 @@
+{
+    "name": "afnan/power-ranger-project",
+    "description": "testing package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Afnan\\PowerRangerProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wan Afnan Hariz",
+            "email": "afnan.baituljannah@gmail.com"
+        }
+    ],
+    "require": {}
+}
